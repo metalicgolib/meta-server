@@ -1,4 +1,4 @@
-module server
+module github.com/metalicgolib/meta-server
 
 go 1.17
 
